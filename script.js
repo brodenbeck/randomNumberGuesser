@@ -11,4 +11,4 @@ while(userNumber !== randomNumber) {
 	userNumber = parseInt(prompt("Pick again."));
 }
 
-console.log("Congratulations, you picked correctly!");
+alert("Congratulations, you picked correctly!");
